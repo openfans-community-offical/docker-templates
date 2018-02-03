@@ -2,7 +2,7 @@
     {
         "type": "container",
         "title": "htpcmanager",
-        "description": "Htpc管理器，很多htpc相关的应用程序前端，目前的版本是Hellowlol。",
+        "description": "Htpc管理器,很多htpc相关的应用程序前端,目前的版本是Hellowlol.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/htpcmanager-icon.png",
         "image": "linuxserver/htpcmanager:latest",
         "category": [
@@ -32,7 +32,7 @@
     {
         "type": "container",
         "title": "maraschino",
-        "description": "一个可以作为你的XBMC HTPC的很好的简单预览页或首页的网页界面。",
+        "description": "一个可以作为你的XBMC HTPC的很好的简单预览页或首页的网页界面.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/maraschino-icon.png",
         "image": "linuxserver/maraschino:latest",
         "category": [
@@ -62,7 +62,7 @@
     {
         "type": "container",
         "title": "jackett",
-        "description": "Jackett是一款作为代理服务器，将来自诸如Sonarr等应用程序的查询翻译成跟踪器站点特定的http查询，并将html响应发送结果解析为请求的软件。",
+        "description": "Jackett是一款作为代理服务器,将来自诸如Sonarr等应用程序的查询翻译成跟踪器站点特定的http查询,并将html响应发送结果解析为请求的软件.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/jacket-icon.png",
         "image": "linuxserver/jackett:latest",
         "category": [
@@ -92,7 +92,7 @@
     {
         "type": "container",
         "title": "booksonic",
-        "description": "Booksonic提供服务端和应用程序客户端通过流媒体将有声读物传输到任何PC或Android手机设备来供您使用。",
+        "description": "Booksonic提供服务端和应用程序客户端通过流媒体将有声读物传输到任何PC或Android手机设备来供您使用.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/booksonic.png",
         "image": "linuxserver/booksonic:latest",
         "category": [
@@ -131,7 +131,7 @@
     {
         "type": "container",
         "title": "smokeping",
-        "description": "Smokeping是一款用于网络性能监测的监控软件。",
+        "description": "Smokeping是一款用于网络性能监测的监控软件.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/smokeping-icon.png",
         "image": "linuxserver/smokeping:latest",
         "category": [
@@ -160,7 +160,7 @@
     {
         "type": "container",
         "title": "duckdns",
-        "description": "Duck DNS是一项免费服务，它将DNS（duckdns.org的子域名）指向您选择的IP地址，该服务是完全免费的，不需要定期重新激活以维持它的有效性\r\n\r\n首先，进入duckdns网站，注册您的子域名并检索您的身份验证令牌\r\n然后用你的子域和令牌运行上面的docker create命令\r\n它将每隔5分钟用DuckDNS服务检查并更新您的IP地址。\r\n\r\n",
+        "description": "Duck DNS是一项免费服务,它将DNS（duckdns.org的子域名）指向您选择的IP地址,该服务是完全免费的,不需要定期重新激活以维持它的有效性\r\n\r\n首先,进入duckdns网站,注册您的子域名并检索您的身份验证令牌\r\n然后用你的子域和令牌运行上面的docker create命令\r\n它将每隔5分钟用DuckDNS服务检查并更新您的IP地址.\r\n\r\n",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/duckdns.png",
         "image": "linuxserver/duckdns:latest",
         "category": [
@@ -194,7 +194,7 @@
     {
         "type": "container",
         "title": "webgrabplus",
-        "description": "WebGrab Plus是一个多站点增量式的xmltv epg grabber，它从选定的电视栏目网站收集您喜爱频道的电视栏目节目数据，[br]\r\n\t\t然后将您选择获取的内容处理并添加到IMDb的数据或您自定义的xmltv列表。[br]\r\n\t\thttp://www.webgrabplus.com/[br]\r\n\t\t[b][span style='color: #E80000;']说明:[/span][/b][br]\r\n\t\t[b]/config[/b] : 这是WebGrab Plus存储配置的目录 [br][br]\r\n\t\t[b]/data[/b] : 这是Tvheadend容器中的tv_grab_wg脚本查找guide.xml文件的位置[br][br]",
+        "description": "WebGrab Plus是一个多站点增量式的xmltv epg grabber,它从选定的电视栏目网站收集您喜爱频道的电视栏目节目数据,[br]\r\n\t\t然后将您选择获取的内容处理并添加到IMDb的数据或您自定义的xmltv列表.[br]\r\n\t\thttp://www.webgrabplus.com/[br]\r\n\t\t[b][span style='color: #E80000;']说明:[/span][/b][br]\r\n\t\t[b]/config[/b] : 这是WebGrab Plus存储配置的目录 [br][br]\r\n\t\t[b]/data[/b] : 这是Tvheadend容器中的tv_grab_wg脚本查找guide.xml文件的位置[br][br]",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/webgrabplus.png",
         "image": "linuxserver/webgrabplus:latest",
         "category": [
@@ -220,7 +220,7 @@
     {
         "type": "container",
         "title": "plexpy",
-        "description": "plexpy是一个基于python的plex统计管理器。",
+        "description": "plexpy是一个基于python的plex统计管理器.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/plexpy-icon.png",
         "image": "linuxserver/plexpy:latest",
         "category": [
@@ -250,7 +250,7 @@
     {
         "type": "container",
         "title": "domoticz",
-        "description": "Domoticz是一个家庭自动化系统，可以让您监视和配置各种设备，如：灯光，开关，各种传感器/仪表，如温度，雨，风，紫外线，电力，天然气，水等等，可以通过通知/警报发送到任何移动设备。",
+        "description": "Domoticz是一个家庭自动化系统,可以让您监视和配置各种设备,如:灯光,开关,各种传感器/仪表,如温度,雨,风,紫外线,电力,天然气,水等等,可以通过通知/警报发送到任何移动设备.",
         "logo": "https://github.com/domoticz/domoticz/raw/master/www/images/logo.png",
         "image": "linuxserver/domoticz:latest",
         "category": [
@@ -281,7 +281,7 @@
     {
         "type": "container",
         "title": "transmission",
-        "description": "Transmission设计简单，功能强大，具有你想要的BitTorrent客户端的功能: 加密, 网页客户端, 对等传输, magnet链接, DHT, \u00b5TP, UPnP和NAT-PMP端口转发, 支持webseed, 目录查看, tracker编辑, 全局和每torrent的限速，等等。",
+        "description": "Transmission设计简单,功能强大,具有你想要的BitTorrent客户端的功能: 加密, 网页客户端, 对等传输, magnet链接, DHT, \u00b5TP, UPnP和NAT-PMP端口转发, 支持webseed, 目录查看, tracker编辑, 全局和每torrent的限速,等等.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/transmission-icon.png",
         "image": "linuxserver/transmission:latest",
         "category": [
@@ -312,7 +312,7 @@
     {
         "type": "container",
         "title": "libresonic",
-        "description": "Libresonic是一个免费的基于网络的流媒体服务软件，提供无处不在的访问您音乐的功能。使用它与朋友分享您的音乐，或在工作的时候聆听您自己的音乐。您可以同时串流到多个用户，例如您的厨房里有一个朋友，另一个朋友在您的客厅里，通过它都可以实现。\r\n\r\n/music - 存放音乐的目录。\r\n/media - 其他媒体的位置。\r\n/podcasts - 播客数据存储的位置。\r\n/playlists - 播放列表存储的位置。\r\nCONTEXT_PATH 用于在反向代理设置中设置网址 - (可选)\r\n\r\n默认的 用户名/密码 是 admin/admin",
+        "description": "Libresonic是一个免费的基于网络的流媒体服务软件,提供无处不在的访问您音乐的功能.使用它与朋友分享您的音乐,或在工作的时候聆听您自己的音乐.您可以同时串流到多个用户,例如您的厨房里有一个朋友,另一个朋友在您的客厅里,通过它都可以实现.\r\n\r\n/music - 存放音乐的目录.\r\n/media - 其他媒体的位置.\r\n/podcasts - 播客数据存储的位置.\r\n/playlists - 播放列表存储的位置.\r\nCONTEXT_PATH 用于在反向代理设置中设置网址 - (可选)\r\n\r\n默认的 用户名/密码 是 admin/admin",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/libresonic.png",
         "image": "linuxserver/libresonic:latest",
         "category": [
@@ -351,7 +351,7 @@
     {
         "type": "container",
         "title": "sickrage",
-        "description": "自动电视节目视频库管理器，使用它观看您最喜爱的新节目。",
+        "description": "自动电视节目视频库管理器,使用它观看您最喜爱的新节目.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/sickrage-icon.png",
         "image": "linuxserver/sickrage:latest",
         "category": [
@@ -382,7 +382,7 @@
     {
         "type": "container",
         "title": "musicbrainz",
-        "description": " MusicBrainz是一个开放的音乐百科全书，通过它收集音乐元数据，并提供给用户使用。",
+        "description": " MusicBrainz是一个开放的音乐百科全书,通过它收集音乐元数据,并提供给用户使用.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/musicbrainz-icon.png",
         "image": "linuxserver/musicbrainz:latest",
         "category": [
@@ -418,7 +418,7 @@
     {
         "type": "container",
         "title": "quassel-core",
-        "description": "Quassel IRC是一个现代化的，跨平台的，分布式的IRC客户端，可以通过一个（或多个）客户端连接到中心服务器，也可以与中央服务器分离 - 就像基于UI和文本的IRC客户端如WeeChat等。它提供包括Blowfish和可选的web-ui支持。",
+        "description": "Quassel IRC是一个现代化的,跨平台的,分布式的IRC客户端,可以通过一个（或多个）客户端连接到中心服务器,也可以与中央服务器分离 - 就像基于UI和文本的IRC客户端如WeeChat等.它提供包括Blowfish和可选的web-ui支持.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/quassel-core-icon.png",
         "image": "linuxserver/quassel-core:latest",
         "category": [
@@ -446,7 +446,7 @@
     {
         "type": "container",
         "title": "photoshow",
-        "description": "一个简单的，把普通相册变成一个网络相册的工具。",
+        "description": "一个简单的,把普通相册变成一个网络相册的工具.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/photoshow-icon.png",
         "image": "linuxserver/photoshow:latest",
         "category": [
@@ -476,7 +476,7 @@
     {
         "type": "container",
         "title": "daapd",
-        "description": "DAAP（iTunes) 媒体服务器，支持AirPlay设备，Apple Remote（包括兼容机），MPD和网络收音机。",
+        "description": "DAAP（iTunes) 媒体服务器,支持AirPlay设备,Apple Remote（包括兼容机）,MPD和网络收音机.",
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/daapd-icon.png",
         "image": "linuxserver/daapd:latest",
         "category": [
@@ -507,7 +507,7 @@
     {
         "type": "container",
         "title": "gazee",
-        "description": "一个为您喜爱的数字漫画提供阅读功能的Web应用程序，使用网络浏览器可以从任何网络连接的设备上访问和阅读您喜欢漫画库。",
+        "description": "一个为您喜爱的数字漫画提供阅读功能的Web应用程序,使用网络浏览器可以从任何网络连接的设备上访问和阅读您喜欢漫画库.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/gazee-logo.png",
         "image": "linuxserver/gazee:latest",
         "category": [
@@ -536,7 +536,7 @@
     {
         "type": "container",
         "title": "codiad",
-        "description": "Codiad是一个基于Web的IDE框架，它体积小巧，对硬件的性能要求极低。\n  ",
+        "description": "Codiad是一个基于Web的IDE框架,它体积小巧,对硬件的性能要求极低.\n  ",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/codiad-icon.png",
         "image": "linuxserver/codiad:latest",
         "category": [
@@ -564,7 +564,7 @@
     {
         "type": "container",
         "title": "oscam",
-        "description": "OScam是一个软摄像头软件，用于解密机顶盒（接收器）上的数字电视频道，作为条件访问模块(CAM)的替代方案。\n 与其他软相机（CCcam，mgcamd等）相比，OScam是开源的，它基于软摄像头软件MpCS并提供cardserver的功能。\n  ",
+        "description": "OScam是一个软摄像头软件,用于解密机顶盒（接收器）上的数字电视频道,作为条件访问模块(CAM)的替代方案.\n 与其他软相机（CCcam,mgcamd等）相比,OScam是开源的,它基于软摄像头软件MpCS并提供cardserver的功能.\n  ",
         "logo": "http://i.imgur.com/8LadrLg.png",
         "image": "linuxserver/oscam:latest",
         "category": [
@@ -593,7 +593,7 @@
     {
         "type": "container",
         "title": "kodi-headless",
-        "description": "提供安装Kodi\u2122 (也叫XBMC\u2122) 的Headless Lib更新库的支持。",
+        "description": "提供安装Kodi\u2122 (也叫XBMC\u2122) 的Headless Lib更新库的支持.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/kodi-icon.png",
         "image": "linuxserver/kodi-headless:latest",
         "category": [
@@ -622,7 +622,7 @@
     {
         "type": "container",
         "title": "pydio",
-        "description": "Pydio（以前称为AjaXplorer）是用于文件共享和同步的成熟开源软件解决方案，可以通过直观的用户界面（Web端/移动端/桌面端）访问并提供企业级的功能，如数据的访问控制和隐私保护：用户目录连接管理，传统文件系统服务的驱动程序，完善的管理界面等等。",
+        "description": "Pydio（以前称为AjaXplorer）是用于文件共享和同步的成熟开源软件解决方案,可以通过直观的用户界面（Web端/移动端/桌面端）访问并提供企业级的功能,如数据的访问控制和隐私保护:用户目录连接管理,传统文件系统服务的驱动程序,完善的管理界面等等.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/pydio-icon.png",
         "image": "linuxserver/pydio:latest",
         "category": [
@@ -652,7 +652,7 @@
     {
         "type": "container",
         "title": "sabnzbd",
-        "description": "SABnzbd是一个基于Web的用户界面，为第三方应用和NZB文件和支持RSS feeds的API，SABnzbd是设计在后台运行，你可以使用它与文件从网络简化您的工作。",
+        "description": "SABnzbd是一个基于Web的用户界面,为第三方应用和NZB文件和支持RSS feeds的API,SABnzbd是设计在后台运行,你可以使用它与文件从网络简化您的工作.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/sabnzbd-icon.png",
         "image": "linuxserver/sabnzbd:latest",
         "category": [
@@ -683,7 +683,7 @@
     {
         "type": "container",
         "title": "teamspeak3",
-        "description": " Teamspeak（简称TS）是一款团队语音通讯工具，但比一般的通讯工具具有更多的功能而且使用方便,\n 由服务器端程序和客户端程序两部分组成，如果不是想自己架设TS服务器，只需下载客户端程序即可。\n Teamspeak依靠先进的体系结构，方便灵活的应用功能，特别是领先的多媒体技术，为用户提供了一款强大的网络通讯工具。",
+        "description": " Teamspeak（简称TS）是一款团队语音通讯工具,但比一般的通讯工具具有更多的功能而且使用方便,\n 由服务器端程序和客户端程序两部分组成,如果不是想自己架设TS服务器,只需下载客户端程序即可.\n Teamspeak依靠先进的体系结构,方便灵活的应用功能,特别是领先的多媒体技术,为用户提供了一款强大的网络通讯工具.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/teamspeak-icon.png",
         "image": "linuxserver/gsm-ts3:latest",
         "category": [
@@ -714,7 +714,7 @@
     {
         "type": "container",
         "title": "medusa",
-        "description": "Medusa是一款电视节目视频库自动化管理工具，通过它可以随时关注您最喜爱的新节目。",
+        "description": "Medusa是一款电视节目视频库自动化管理工具,通过它可以随时关注您最喜爱的新节目.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/medusa-icon.png",
         "image": "linuxserver/medusa:latest",
         "category": [
@@ -746,7 +746,7 @@
     {
         "type": "container",
         "title": "syncthing",
-        "description": "一款开源的跨平台文件同步软件。",
+        "description": "一款开源的跨平台文件同步软件.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/syncthing-icon.png",
         "image": "linuxserver/syncthing:latest",
         "category": [
@@ -780,7 +780,7 @@
     {
         "type": "container",
         "title": "muximux",
-        "description": "一个轻量级的门户网站，可以查看、管理您的HTPC应用程序，而无需运行任何支持PHP的Web服务器，有了Muximux，您不需要再保持打开多个标签，或者将所有的应用程序都标记为书签。",
+        "description": "一个轻量级的门户网站,可以查看、管理您的HTPC应用程序,而无需运行任何支持PHP的Web服务器,有了Muximux,您不需要再保持打开多个标签,或者将所有的应用程序都标记为书签.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/muximux-icon.png",
         "image": "linuxserver/muximux:latest",
         "category": [
@@ -811,7 +811,7 @@
     {
         "type": "container",
         "title": "beets",
-        "description": "beets让您的音乐收藏一劳永逸，可以按照目录分类您的收藏，并自动改进其元数据，它使用了MusicBrainz数据库并提供了一套易于管理和访问音乐的工具。",
+        "description": "beets让您的音乐收藏一劳永逸,可以按照目录分类您的收藏,并自动改进其元数据,它使用了MusicBrainz数据库并提供了一套易于管理和访问音乐的工具.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/beets-icon.png",
         "image": "linuxserver/beets:latest",
         "category": [
@@ -841,7 +841,7 @@
     {
         "type": "container",
         "title": "plexrequests",
-        "description": "一个简单的自动化刷新Plex新内容的工具。",
+        "description": "一个简单的自动化刷新Plex新内容的工具.",
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/plexrequests-icon.png",
         "image": "linuxserver/plexrequests:latest",
         "category": [
@@ -878,7 +878,7 @@
     {
         "type": "container",
         "title": "mariadb",
-        "description": "Mysql数据库的开源替代品。",
+        "description": "Mysql数据库的开源替代品.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/mariadb-icon.png",
         "image": "linuxserver/mariadb:latest",
         "category": [
@@ -914,7 +914,7 @@
     {
         "type": "container",
         "title": "znc",
-        "description": "ZNC是一个IRC网络BNC和安全工具，它可以将客户端从实际的IRC服务器以及选定的通道中分离出来，您可以使用同一昵称并使用来自不同地点的多个客户端同时连接到一个ZNC帐户，并都将在IRC上的同一昵称下全部显示出来。",
+        "description": "ZNC是一个IRC网络BNC和安全工具,它可以将客户端从实际的IRC服务器以及选定的通道中分离出来,您可以使用同一昵称并使用来自不同地点的多个客户端同时连接到一个ZNC帐户,并都将在IRC上的同一昵称下全部显示出来.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/znc-icon.png",
         "image": "linuxserver/znc:latest",
         "category": [
@@ -942,7 +942,7 @@
     {
         "type": "container",
         "title": "cops",
-        "description": "COPS链接到您的Calibre图书馆数据库，并允许直接从浏览器下载和电子邮件发送您的书籍，并提供一个OPDS Feed让您可以从设备上连接。",
+        "description": "COPS链接到您的Calibre图书馆数据库,并允许直接从浏览器下载和电子邮件发送您的书籍,并提供一个OPDS Feed让您可以从设备上连接.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/cops-icon.png",
         "image": "linuxserver/cops:latest",
         "category": [
@@ -973,7 +973,7 @@
     {
         "type": "container",
         "title": "the-lounge",
-        "description": "一个自托管的网络IRC客户端。",
+        "description": "一个自托管的网络IRC客户端.",
         "logo": "https://raw.githubusercontent.com/linuxserver/community-templates/master/lsiocommunity/img/shout-icon.png",
         "image": "linuxserver/thelounge:latest",
         "category": [
@@ -1001,7 +1001,7 @@
     {
         "type": "container",
         "title": "nzbget",
-        "description": "NZBGet是一个usenet下载器，用C++编写，设计时考虑到性能，通过使用非常少的系统资源来实现最大的下载速度，它支持包括Windows、Mac、Linux在内的所有平台，适用于所有设备，包括PC、NAS、WLAN路由器和媒体播放器。",
+        "description": "NZBGet是一个usenet下载器,用C++编写,设计时考虑到性能,通过使用非常少的系统资源来实现最大的下载速度,它支持包括Windows、Mac、Linux在内的所有平台,适用于所有设备,包括PC、NAS、WLAN路由器和媒体播放器.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/nzbget-icon.png",
         "image": "linuxserver/nzbget:latest",
         "category": [
@@ -1030,7 +1030,7 @@
     {
         "type": "container",
         "title": "ombi",
-        "description": "Ombi允许您托管您自己的Plex请求和用户管理系统。",
+        "description": "Ombi允许您托管您自己的Plex请求和用户管理系统.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/ombi.png",
         "image": "linuxserver/ombi:latest",
         "category": [
@@ -1061,7 +1061,7 @@
     {
         "type": "container",
         "title": "lychee",
-        "description": "Lychee是一个免费的照片管理工具，可以在您的服务器或网络空间上运行，从本地应用程序上传、管理和分享照片并安全的存储您的所有照片。",
+        "description": "Lychee是一个免费的照片管理工具,可以在您的服务器或网络空间上运行,从本地应用程序上传、管理和分享照片并安全的存储您的所有照片.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/lychee-icon.png",
         "image": "linuxserver/lychee:latest",
         "category": [
@@ -1094,7 +1094,7 @@
     {
         "type": "container",
         "title": "deluge",
-        "description": "Deluge是一个轻量级的自由软件，跨平台的BitTorrent客户端，提供：完全加密，WebUI，插件系统，等等。",
+        "description": "Deluge是一个轻量级的自由软件,跨平台的BitTorrent客户端,提供:完全加密,WebUI,插件系统,等等.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/deluge-icon.png",
         "image": "linuxserver/deluge:latest",
         "category": [
@@ -1125,7 +1125,7 @@
     {
         "type": "container",
         "title": "nginx",
-        "description": "Nginx是一个Web服务器，专注于高并发性、高性能和低内存使用，它也可以充当HTTP、HTTPS、SMTP、POP3和IMAP协议的逆向代理服务器，以及负载均衡器和作为HTTP缓存器来使用。",
+        "description": "Nginx是一个Web服务器,专注于高并发性、高性能和低内存使用,它也可以充当HTTP、HTTPS、SMTP、POP3和IMAP协议的逆向代理服务器,以及负载均衡器和作为HTTP缓存器来使用.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/nginx-icon.png",
         "image": "linuxserver/nginx:latest",
         "category": [
@@ -1155,7 +1155,7 @@
     {
         "type": "container",
         "title": "cardigann",
-        "description": "Cardigann是一个通过Torznab和TorrentPotato代理向Sonarr，SickRage和CouchPotato添加额外索引的服务器，Cardigann在后台登录并运行搜索，然后将结果转换为可兼容的格式。",
+        "description": "Cardigann是一个通过Torznab和TorrentPotato代理向Sonarr,SickRage和CouchPotato添加额外索引的服务器,Cardigann在后台登录并运行搜索,然后将结果转换为可兼容的格式.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/cardigan.png",
         "image": "linuxserver/cardigann:latest",
         "category": [
@@ -1218,7 +1218,7 @@
     {
         "type": "container",
         "title": "plex",
-        "description": "plex是一款支持多平台的多媒体娱乐播放器。",
+        "description": "plex是一款支持多平台的多媒体娱乐播放器.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/plex-icon.png",
         "image": "linuxserver/plex:latest",
         "category": [
@@ -1250,7 +1250,7 @@
     {
         "type": "container",
         "title": "hydra",
-        "description": "NZBHydra是一个为NZB索引和 \"spiritual successor\" 提供到NZBmegasearcH的元数据搜索的工具，它提供了对一些基于raw和newznab索引的简单访问。",
+        "description": "NZBHydra是一个为NZB索引和 \"spiritual successor\" 提供到NZBmegasearcH的元数据搜索的工具,它提供了对一些基于raw和newznab索引的简单访问.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/hydra-icon.png",
         "image": "linuxserver/hydra:latest",
         "category": [
@@ -1311,7 +1311,7 @@
     {
         "type": "container",
         "title": "qbittorrent",
-        "description": "qBittorrent提供了一个开源软件来替代\u00b5Torrent ，它基于Qt工具和libtorrent-rasterbar库开发。",
+        "description": "qBittorrent提供了一个开源软件来替代\u00b5Torrent ,它基于Qt工具和libtorrent-rasterbar库开发.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/qbittorrent-icon.png",
         "image": "linuxserver/qbittorrent:latest",
         "category": [
@@ -1342,7 +1342,7 @@
     {
         "type": "container",
         "title": "couchpotato",
-        "description": "CouchPotato (CP) 是一款自动NZB和torrent的下载器，您可以保留一个 \"movies I want\"-list ，它将每隔几小时就会自动搜索这些电影的NZBs和torrent文件，一旦找到了电影，它将发送到SABnzbd或下载torrent文件到指定的目录。",
+        "description": "CouchPotato (CP) 是一款自动NZB和torrent的下载器,您可以保留一个 \"movies I want\"-list ,它将每隔几小时就会自动搜索这些电影的NZBs和torrent文件,一旦找到了电影,它将发送到SABnzbd或下载torrent文件到指定的目录.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/couchpotato-icon.png",
         "image": "linuxserver/couchpotato:latest",
         "category": [
@@ -1373,7 +1373,7 @@
     {
         "type": "container",
         "title": "davos",
-        "description": "davos是一个FTP自动化工具，可定期扫描指定主机位置并查找新文件，还可以配置各种各样的工作任务，包括监听特定文件在主机出现的位置，准备好下载并移动到指定位置，如果需要的话，它还支持完成通知以及下游API调用来以进一步完成工作流程。\r\n\r\n/config : AppData的目录位置\r\n/download : 下载文件的存放位置",
+        "description": "davos是一个FTP自动化工具,可定期扫描指定主机位置并查找新文件,还可以配置各种各样的工作任务,包括监听特定文件在主机出现的位置,准备好下载并移动到指定位置,如果需要的话,它还支持完成通知以及下游API调用来以进一步完成工作流程.\r\n\r\n/config : AppData的目录位置\r\n/download : 下载文件的存放位置",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/davos.png",
         "image": "linuxserver/davos:latest",
         "category": [
@@ -1404,7 +1404,7 @@
     {
         "type": "container",
         "title": "tt-rss",
-        "description": "Tiny Tiny RSS是一个开源的基于Web的新闻源（RSS/Atom）阅读器和聚合器，旨在让您从任何位置阅读新闻，同时尽可能接近真实的桌面应用程序体验。",
+        "description": "Tiny Tiny RSS是一个开源的基于Web的新闻源（RSS/Atom）阅读器和聚合器,旨在让您从任何位置阅读新闻,同时尽可能接近真实的桌面应用程序体验.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/tt-rss-icon.png",
         "image": "linuxserver/tt-rss:latest",
         "category": [
@@ -1432,7 +1432,7 @@
     {
         "type": "container",
         "title": "freshrss",
-        "description": "一个免费的，自主的rss聚合器。\u2026",
+        "description": "一个免费的,自主的rss聚合器.\u2026",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/freshrss-icon.png",
         "image": "linuxserver/freshrss:latest",
         "category": [
@@ -1461,7 +1461,7 @@
     {
         "type": "container",
         "title": "mcmyadmin2",
-        "description": "mcmyadmin2是一款类似于Multicraft的网页服务端架设工具。",
+        "description": "mcmyadmin2是一款类似于Multicraft的网页服务端架设工具.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/mcmyadmin-icon.png",
         "image": "linuxserver/mcmyadmin2:latest",
         "category": [
@@ -1491,7 +1491,7 @@
     {
         "type": "container",
         "title": "openvpn-as",
-        "description": "OpenVPN接入服务器（openvpn-as）是一个全功能的安全网络隧道VPN软件解决方案，集成了OpenVPN服务器功能和企业级的管理功能，拥有简化的OpenVPN连接界面和适用于Windows、MAC、Linux、Android和iOS环境的OpenVPN客户端软件包。",
+        "description": "OpenVPN接入服务器（openvpn-as）是一个全功能的安全网络隧道VPN软件解决方案,集成了OpenVPN服务器功能和企业级的管理功能,拥有简化的OpenVPN连接界面和适用于Windows、MAC、Linux、Android和iOS环境的OpenVPN客户端软件包.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/openvpn-as-icon.png",
         "image": "linuxserver/openvpn-as:latest",
         "category": [
@@ -1526,7 +1526,7 @@
     {
         "type": "container",
         "title": "mylar",
-        "description": "一款使用SABnzbd、NZBGet和torrent自动下载漫画书（cbr / cbz）的工具。",
+        "description": "一款使用SABnzbd、NZBGet和torrent自动下载漫画书（cbr / cbz）的工具.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/mylar-icon.png",
         "image": "linuxserver/mylar:latest",
         "category": [
@@ -1557,7 +1557,7 @@
     {
         "type": "container",
         "title": "hydra2",
-        "description": "NZBHydra2是一个为NZB索引和 \"spiritual successor\" 提供到NZBmegasearcH的元数据搜索的工具，它提供了对一些基于raw和newznab索引的简单访问。",
+        "description": "NZBHydra2是一个为NZB索引和 \"spiritual successor\" 提供到NZBmegasearcH的元数据搜索的工具,它提供了对一些基于raw和newznab索引的简单访问.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/hydra-icon.png",
         "image": "linuxserver/hydra2:latest",
         "category": [
@@ -1588,7 +1588,7 @@
     {
         "type": "container",
         "title": "projectsend",
-        "description": "ProjectSend是一个自我托管的应用程序，可让您上传文件并将其分配给您自己创建的特定客户端！安全，私密和简单，不需要任何外部服务或电子邮件发送这些文件！\n  ",
+        "description": "ProjectSend是一个自我托管的应用程序,可让您上传文件并将其分配给您自己创建的特定客户端！安全,私密和简单,不需要任何外部服务或电子邮件发送这些文件！\n  ",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/projectsend-logo.png",
         "image": "linuxserver/projectsend:latest",
         "category": [
@@ -1621,7 +1621,7 @@
     {
         "type": "container",
         "title": "minetest",
-        "description": "minetest的服务器版本，一个免费的，开源的Minecraft替代品。",
+        "description": "minetest的服务器版本,一个免费的,开源的Minecraft替代品.",
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/minetest-icon.png",
         "image": "linuxserver/minetest:latest",
         "category": [
@@ -1650,7 +1650,7 @@
     {
         "type": "container",
         "title": "tvheadend",
-        "description": "Tvheadend是支持DVB-S、DVB-S2、DVB-C、DVB-T、ATSC、ISDB-T、IPTV，SAT&gt;IP和HDHomeRun作为输入源的Linux、FreeBSD和Android的电视流媒体服务器和录像机。\r\nTvheadend提供HTTP（VLC，MPlayer）、HTSP（Kodi，Movian）和SAT&gt、IP的流媒体。\r\n支持多种EPG资源（无线DVB和ATSC，包括OpenTV DVB扩展、XMLTV、PyXML）。",
+        "description": "Tvheadend是支持DVB-S、DVB-S2、DVB-C、DVB-T、ATSC、ISDB-T、IPTV,SAT&gt;IP和HDHomeRun作为输入源的Linux、FreeBSD和Android的电视流媒体服务器和录像机.\r\nTvheadend提供HTTP（VLC,MPlayer）、HTSP（Kodi,Movian）和SAT&gt、IP的流媒体.\r\n支持多种EPG资源（无线DVB和ATSC,包括OpenTV DVB扩展、XMLTV、PyXML）.",
         "logo": "http://i.imgur.com/zGSUAT4.png",
         "image": "linuxserver/tvheadend:latest",
         "category": [
@@ -1681,7 +1681,7 @@
     {
         "type": "container",
         "title": "duplicati",
-        "description": "duplicati是免费的备份软件，可以在线存储并加密备份，它可以使用FTP，SSH，WebDAV等标准协议以及提供了对Microsoft OneDrive、Amazon Cloud Drive和S3、Google Drive、box.com、Mega、hubiC等服务的支持。",
+        "description": "duplicati是免费的备份软件,可以在线存储并加密备份,它可以使用FTP,SSH,WebDAV等标准协议以及提供了对Microsoft OneDrive、Amazon Cloud Drive和S3、Google Drive、box.com、Mega、hubiC等服务的支持.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/duplicati-icon.png",
         "image": "linuxserver/duplicati:latest",
         "category": [
@@ -1716,7 +1716,7 @@
     {
         "type": "container",
         "title": "resilio-sync",
-        "description": "Resilio Sync（以前称为BitTorrent Sync）使用BitTorrent协议在所有设备之间同步文件和文件夹，有免费和付费版本，容器服务同时支持这两个版本。",
+        "description": "Resilio Sync（以前称为BitTorrent Sync）使用BitTorrent协议在所有设备之间同步文件和文件夹,有免费和付费版本,容器服务同时支持这两个版本.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/resilio.png",
         "image": "linuxserver/resilio-sync:latest",
         "category": [
@@ -1781,7 +1781,7 @@
     {
         "type": "container",
         "title": "piwigo",
-        "description": "一款网络照片库软件。",
+        "description": "一款网络照片库软件.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/piwigo-icon.png",
         "image": "linuxserver/piwigo:latest",
         "category": [
@@ -1809,7 +1809,7 @@
     {
         "type": "container",
         "title": "ubooquity",
-        "description": "ubooquity是一个免费的，轻量级和易于使用的家庭漫画和电子书服务器，可以通过平板电脑、电子阅读器、移动设备或台式机从任何地方访问您的文件。",
+        "description": "ubooquity是一个免费的,轻量级和易于使用的家庭漫画和电子书服务器,可以通过平板电脑、电子阅读器、移动设备或台式机从任何地方访问您的文件.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/ubooquity-icon.png",
         "image": "linuxserver/ubooquity:latest",
         "category": [
@@ -1847,7 +1847,7 @@
     {
         "type": "container",
         "title": "lazylibrarian",
-        "description": "LazyLibrarian是一个关注作者并抓取所有数字阅读需求元数据的程序。",
+        "description": "LazyLibrarian是一个关注作者并抓取所有数字阅读需求元数据的程序.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/lazylibrarian-icon.png",
         "image": "linuxserver/lazylibrarian:latest",
         "category": [
@@ -1877,7 +1877,7 @@
     {
         "type": "container",
         "title": "airsonic",
-        "description": "Airsonic是一个免费的基于网络的流媒体服务软件，提供无处不在的访问您音乐的功能。使用它与朋友分享您的音乐，或在工作的时候聆听您自己的音乐。您可以同时串流到多个用户，例如您的厨房里有一个朋友，另一个朋友在您的客厅里，通过它都可以实现。",
+        "description": "Airsonic是一个免费的基于网络的流媒体服务软件,提供无处不在的访问您音乐的功能.使用它与朋友分享您的音乐,或在工作的时候聆听您自己的音乐.您可以同时串流到多个用户,例如您的厨房里有一个朋友,另一个朋友在您的客厅里,通过它都可以实现.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/airsonic-logo.png",
         "image": "linuxserver/airsonic:latest",
         "category": [
@@ -1921,7 +1921,7 @@
     {
         "type": "container",
         "title": "letsencrypt",
-        "description": "这个容器将创建一个Nginx网络服务器和反向代理服务器，支持php和一个内置的letsencrypt客户端，可以自动完成免费的SSL服务器证书生成和更新过程。 它还包含入侵防护的fail2ban支持。\r\n  \r\n  在运行此容器之前，请确保将url和子域已正确转发到此容器的主机。\r\n  \r\n  - 路由器的互联网443端口应该被转发到这个容器的443端口。\r\n  - 如果您需要一个动态的dns提供程序，您可以使用免费的duckdns.org，其中的url将是yoursubdomain.duckdns.org，子域可以是www,ftp,cloud\r\n  - 容器将会检测到对url和子域的更改，撤销现有的证书并在启动期间生成新的证书。 \r\n  - 它还检测对DHLEVEL参数的更改并替换dhparams文件。\r\n  \r\n  - 如果您想密码保护您的网站，您可以使用htpasswd。 在主机上运行以下命令来生成htpasswd文件 docker exec -it letsencrypt htpasswd -c /config/nginx/.htpasswd &lt;username&gt;",
+        "description": "这个容器将创建一个Nginx网络服务器和反向代理服务器,支持php和一个内置的letsencrypt客户端,可以自动完成免费的SSL服务器证书生成和更新过程. 它还包含入侵防护的fail2ban支持.\r\n  \r\n  在运行此容器之前,请确保将url和子域已正确转发到此容器的主机.\r\n  \r\n  - 路由器的互联网443端口应该被转发到这个容器的443端口.\r\n  - 如果您需要一个动态的dns提供程序,您可以使用免费的duckdns.org,其中的url将是yoursubdomain.duckdns.org,子域可以是www,ftp,cloud\r\n  - 容器将会检测到对url和子域的更改,撤销现有的证书并在启动期间生成新的证书. \r\n  - 它还检测对DHLEVEL参数的更改并替换dhparams文件.\r\n  \r\n  - 如果您想密码保护您的网站,您可以使用htpasswd. 在主机上运行以下命令来生成htpasswd文件 docker exec -it letsencrypt htpasswd -c /config/nginx/.htpasswd &lt;username&gt;",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/letsencrypt.png",
         "image": "linuxserver/letsencrypt:latest",
         "category": [
@@ -1982,7 +1982,7 @@
     {
         "type": "container",
         "title": "sonarr",
-        "description": "Sonarr (formerly NZBdrone) 是usenet和bittorrent用户的PVR软件，它可以监视多个RSS源，为您抓取最喜爱的最新节目资源，并进行排序和重命名，它也可以配置为当更好的质量格式变得可用时自动升级已经下载的文件的质量。",
+        "description": "Sonarr (formerly NZBdrone) 是usenet和bittorrent用户的PVR软件,它可以监视多个RSS源,为您抓取最喜爱的最新节目资源,并进行排序和重命名,它也可以配置为当更好的质量格式变得可用时自动升级已经下载的文件的质量.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/sonarr-icon.png",
         "image": "linuxserver/sonarr:latest",
         "category": [
@@ -2014,7 +2014,7 @@
     {
         "type": "container",
         "title": "rutorrent",
-        "description": "一款流行的、易于使用的web torrent客户端。",
+        "description": "一款流行的、易于使用的web torrent客户端.",
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/rutorrent-icon.png",
         "image": "linuxserver/rutorrent:latest",
         "category": [
@@ -2045,7 +2045,7 @@
     {
         "type": "container",
         "title": "nextcloud",
-        "description": "著名的企业私有云网盘（owncloud的新版本，替代品）。",
+        "description": "著名的企业私有云网盘（owncloud的新版本,替代品）.",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/nextcloud-icon.png",
         "image": "linuxserver/nextcloud:latest",
         "category": [
@@ -2079,7 +2079,7 @@
     {
         "type": "container",
         "title": "minisatip",
-        "description": "Minisatip是一个多线程的satip服务器1.2版，在Linux下运行，并且已经通过DVB-S、DVB-S2、DVB-T、DVB-T2、DVB-C、DVB-C2、ATSC和ISDB-T卡的测试。\n\n 应用程序被设计为在打开不同的pid的同时，将所请求的数据流式传输到多个客户端（即使使用一个dvb卡）。\n  ",
+        "description": "Minisatip是一个多线程的satip服务器1.2版,在Linux下运行,并且已经通过DVB-S、DVB-S2、DVB-T、DVB-T2、DVB-C、DVB-C2、ATSC和ISDB-T卡的测试.\n\n 应用程序被设计为在打开不同的pid的同时,将所请求的数据流式传输到多个客户端（即使使用一个dvb卡）.\n  ",
         "logo": "https://raw.githubusercontent.com/openfans-community-offical/docker-templates/cecos-caas/linuxserver.io/img/minisatip-icon.png",
         "image": "linuxserver/minisatip:latest",
         "category": [
